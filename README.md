@@ -6,7 +6,7 @@
 # I'm Joy Sarkar
 ### Want to be MERN stack developer
 
-- Email: joysarkarbd407@gmail.com
+Email: joysarkarbd407@gmail.com
 <!-- Portfolio: <a href="My Own Site Link" target="_blank">My Own Site Link</a> -->
 
 ### Languages and Frameworks
