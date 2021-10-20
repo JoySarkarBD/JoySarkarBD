@@ -1,47 +1,23 @@
-![mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a](https://user-images.githubusercontent.com/77662668/134035337-de4c3267-4da3-4200-b4e4-773064ec8995.png)
+### Hi there 👋, I am Joy Sarkar
+#### Want to be MERN stack developer
+![Want to be MERN stack developer](https://user-images.githubusercontent.com/77662668/134035337-de4c3267-4da3-4200-b4e4-773064ec8995.png)
+
+I am Joy. Recently, I am learning Web development. But my main aim is to become a Full Stack MERN Developer.
+
+Skills: JS / REACT / JS / HTML / CSS / BOOTSTRAP/ TAILWIND/ FIREBASE
+
+- 🌱 I’m currently learning Web Development. 
+- 📫 How to reach me: joysarkarbd407@gmail.com 
 
 
-### Hi there 👋
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/JoySarkarMA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joy-sarkar-479496204//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/joysarkar490/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16843729/joy-sarkar-ma)  
 
-# I'm Joy Sarkar
-### Want to be MERN stack developer
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/JoySarkarMA)](https://github.com/ryo-ma/github-profile-trophy)
 
-Email: joysarkarbd407@gmail.com
-<!-- Portfolio: <a href="My Own Site Link" target="_blank">My Own Site Link</a> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/JoySarkarMA)](https://github.com/anuraghazra/github-readme-stats)
 
-### Languages and Frameworks
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/JoySarkarMA)  
 
-<img align="left" alt="HTML5" title="HTML5" height="32" width="32" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img align="left" alt="CSS3" title="CSS3" height="32" width="32" src="https://tecnologiaenvivo.com/wp-content/uploads/2014/01/CSS3-Logo.png"/>
-<img align="left" alt="TAILWIND" title="TAILWIND" height="32" width="32" src="https://media.zeemly.com/zeemly/product/tailwind-css.png"/>
-<img align="left" alt="Bootstrap" title="Bootstrap" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img align="left" alt="JavaScript" title="JavaScript" height="32" width="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" alt="ReactJs" title="ReactJS" height="32" width="32" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<!-- <img align="left" alt="ExpressJS" title="ExpressJS" height="32" width="32" src="https://i.imgur.com/HIF5Fwy.jpg"/> -->
-<!-- <img align="left" alt="Typescript" title="Typescript" height="32" width="32" src="https://img.icons8.com/color/48/000000/typescript.png" /> -->
-<!-- <img align="left" alt="NodeJS" title="NodeJS" height="32" width="32" src="https://img.icons8.com/color/48/000000/nodejs.png" /> -->
-<!-- <img align="left" alt="MongoDB" title="MongoDB" height="32" width="32" src="https://img.icons8.com/color/48/000000/mongodb.png" /> -->
-<!-- <img align="left" alt="Firebase" title="Firebase" height="32" width="32" src="https://img.icons8.com/color/48/000000/firebase.png" /> -->
-<!-- <img align="left" alt="Material-UI" title="Material-UI" height="32" width="32" src="https://img.icons8.com/color/48/000000/material-ui.png" /> -->
-<!-- <img align="left" alt="Ant Design" title="Ant Design" height="32" width="32" src="https://i.imgur.com/y42qtQb.png" /> -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/JoySarkarMA)  
 
-<br />
-<br />
-
----
-
-
-[<img align="left" alt="Joy Sarkar | LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-<!-- [<img align="left" alt="taib islam dipu | Medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium] -->
-<!-- [<img align="left" alt="Joy Sarkar | Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter] -->
-[<img align="left" alt="Joy Sarkar | Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />][facebook]
-
-<br />
-<br />
-
-
-
-<!-- [website]: My Own Website Link/ -->
-[facebook]: https://www.facebook.com/joysarkar490/
-<!-- [twitter]:  -->
-[linkedin]: https://www.linkedin.com/in/joy-sarkar-479496204/
+![Profile views](https://gpvc.arturio.dev/https://github.com/JoySarkarMA)  
