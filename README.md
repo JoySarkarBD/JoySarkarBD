@@ -1,10 +1,10 @@
 ### Hi there 👋, I am Joy Sarkar
 #### Want to be MERN stack developer
-![Want to be MERN stack developer](https://user-images.githubusercontent.com/77662668/134035337-de4c3267-4da3-4200-b4e4-773064ec8995.png)
+<!-- [Want to be MERN stack developer](https://user-images.githubusercontent.com/77662668/134035337-de4c3267-4da3-4200-b4e4-773064ec8995.png) -->
 
 I am Joy. Recently, I am learning Web development. But my main aim is to become a Full Stack MERN Developer.
 
-Skills: JS / REACT / JS / HTML / CSS / BOOTSTRAP/ TAILWIND/ FIREBASE
+<!-- Skills: JS / REACT / JS / HTML / CSS / BOOTSTRAP/ TAILWIND/ FIREBASE -->
 
 - 🌱 I’m currently learning Web Development. 
 - 📫 How to reach me: joysarkarbd407@gmail.com 
