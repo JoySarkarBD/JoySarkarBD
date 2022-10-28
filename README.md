@@ -1,11 +1,11 @@
-# Hi there 👋, I am Arunabh Newar
+# Hi there 👋, I am Joy Sarkar
 ## MERN Stack Web Development student
 
 
-I'm learning now Programming Hero's MERN Stack Web Development Program.
+I'm a MERN Stack Web Developer and student.
 
 
-Skills:  HTML5/CSS3/JS/ES6
+Skills:  HTML5/CSS3/JS/ES6/PUG/REACT/MongoDB/WEB SOCKET/NODEJS/EXPRESS
 
 
 
@@ -16,10 +16,10 @@ Skills:  HTML5/CSS3/JS/ES6
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arunabh_leo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunabh_leo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/newar-devil-bb7126215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="newar-devil-bb7126215" height="30" width="40" /></a>
-<a href="https://fb.com/arunabh.newar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arunabh.newar" height="30" width="40" /></a>
-<a href="https://instagram.com/arunabhnewar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunabhnewar" height="30" width="40" /></a>
+<a href="https://twitter.com/Joy_Sarkar_BD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Joy_Sarkar_BD" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joysarkarbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joysarkarbd" height="30" width="40" /></a>
+<a href="https://www.facebook.com/joysarkar490/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joysarkar490" height="30" width="40" /></a>
+<a href="https://www.instagram.com/joy_sarkar_bd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joy_sarkar_bd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
