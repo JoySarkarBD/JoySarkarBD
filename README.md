@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joy Sarkar</h1>
-<h3 align="center">A passionate Full Stack Web developer from Bangladesh</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=700&height=100&lines=A+passionate+Full+Stack+Web+developer+from+Bangladesh;With+having+3+years+of+experience.;And+also+working+as+a+Full+Stack+Web+Developer+at+Techanalyzen." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joysarkarbd&label=Profile%20views&color=0e75b6&style=flat" alt="joysarkarbd" /> </p>
 
