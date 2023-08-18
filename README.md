@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <h4>✉️ Mail: developer.joysarkar@gmail.com</h4>
-<h4>📥 WhatsApp: +8801681928047<small>(Only for Professional/Marketplace work)</small></h4>
+<h4>📥 WhatsApp Number: +8801681928047<small>(Only for Professional/Marketplace work)</small></h4>
 
 <p align="left">
 <a href="https://twitter.com/joy_sarkar_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joy_sarkar_bd" height="30" width="40" /></a>
