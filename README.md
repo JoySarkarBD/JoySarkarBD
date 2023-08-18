@@ -8,7 +8,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/joy_sarkar_bd" target="blank"><img src="https://img.shields.io/twitter/follow/joy_sarkar_bd?logo=twitter&style=for-the-badge" alt="joy_sarkar_bd" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
-<h4><p height="30" width="40">✉️</p> Mail: developer.joysarkar@gmail.com</h4>
+<h4><span height="30" width="40">✉️</span> Mail: developer.joysarkar@gmail.com</h4>
 <h4>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="joy_sarkar_bd" height="30" width="40" /> 
   WhatsApp Number: +8801681928047
