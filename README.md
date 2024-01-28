@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joy Sarkar</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=1000&height=100&lines=A+passionate+MERN+Stack+Developer+from+Bangladesh.;With+having+5+years+of+experience.;And+also+working+as+a+MERN+Stack+Developer+at+Techanalyzen." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=1000&height=100&lines=A+passionate+MERN+Stack+||+Next.Js+||+Nest.Js+Developer+from+Bangladesh.;With+having+5+years+of+experience.;And+also+working+as+a+MERN+Stack+Developer+at+Techanalyzen." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joysarkarbd&label=Profile%20views&color=0e75b6&style=flat" alt="joysarkarbd" /> </p>
 
