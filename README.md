@@ -11,7 +11,7 @@
 <h4><span height="30" width="40">✉️</span> Mail: developer.joysarkar@gmail.com</h4>
 <h4>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="joy_sarkar_bd" height="18" width="26" /> 
-  WhatsApp Number: +8801681928047
+ WhatsApp Number: +8801681928047
   <small>(Only for Professional/Marketplace work)</small>
 </h4>
 
