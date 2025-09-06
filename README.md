@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/joy_sarkar_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joy_sarkar_bd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joysarkarbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joysarkarbd" height="30" width="40" /></a>
-<a href="https://fb.com/joysarkar490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joysarkar490" height="30" width="40" /></a>
+<a href="https://www.facebook.com/webdev.joysarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joysarkar490" height="30" width="40" /></a>
 <a href="https://instagram.com/joy_sarkar_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joy_sarkar_bd" height="30" width="40" /></a>
 <a href="https://medium.com/@joysarkarbd407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joysarkarbd407" height="30" width="40" /></a>
 </p>
