@@ -57,4 +57,4 @@
 </p>
 
 ---
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JoySarkarBD/FyslAhmd/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JoySarkarBD/JoySarkarBD/output/github-contribution-grid-snake.svg" />
