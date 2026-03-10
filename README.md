@@ -55,3 +55,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joysarkarbd&show_icons=true&theme=merko" alt="GitHub Streak" />
 </p>
+
+---
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JoySarkarBD/FyslAhmd/output/github-contribution-grid-snake.svg" />
